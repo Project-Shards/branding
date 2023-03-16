@@ -20,7 +20,7 @@ We ask for the following colours to be used for any media on/about Shards or in 
 
 ###  Logo
 
-- `#8839EF`
+- `#30C879`
 - `#FFFFFF`
  
 ###  Colour Scheme
