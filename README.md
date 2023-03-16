@@ -6,26 +6,26 @@ The following section will describe the guidelines we ask to be enforced when de
 
 ## 💬 Naming
 
-We ask to be referred to as `Crystal Linux` or `Crystal` (not `Crystal GNU/Linux`)
+We ask to be referred to as `Project Shards` or `Shards` (Do not mention `GNU` in the name)
 
- `the Crystal Linux distribution` is also applicable in situations where `Crystal` would be too broad or confusing of a term.
+ `Projects Shards Linux distribution` is also applicable in situations where `Shards` or `Project Shards` would be too broad or confusing of a term.
 
 ## 🖼️ Use of Logo
 
-We ask for the Crystal logo to only be used when relating to Crystal. The logo should not be used in the context of another Linux distribution, Linux as a whole, nor any unrelated ideas/purposes.
+We ask for the Shards logo to only be used when relating to Project Shards. The logo should not be used in the context of another Linux distribution, Linux as a whole, nor any unrelated ideas/purposes.
 
 ## 🌈 Colours
 
-We ask for the following colours to be used for any media on/about Crystal or in relation to it: 
+We ask for the following colours to be used for any media on/about Shards or in relation to it: 
 
 ###  Logo
 
-- ![#8839EF](https://via.placeholder.com/15/8839EF/000000?text=+) `#8839EF`
+- ![#30C879](https://via.placeholder.com/15/30C879/000000?text=+) `#8839EF`
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
  
 ###  Colour Scheme
 
-We recently started using [Catpuccin](https://github.com/catppuccin/catppuccin) Mocha as the general colour scheme for the project.
+We are currently working on a full colour scheme for Shards! [Feel free to contribute here](colours.md)!
 
 ## 📘 Fonts
 
