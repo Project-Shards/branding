@@ -1,42 +1,37 @@
-  <a href="https://github.com/crystal-linux/branding">
-    <img src="https://getcryst.al/site/assets/other/logo.png" alt="Logo" width="150" height="150">
-  </a>
-
 # Branding
 
-## Guidelines for a consistent look in all parts of the project.
-
+Guidelines for a consistent look in all parts of the project.
 
 The following section will describe the guidelines we ask to be enforced when designing media for or about the Crystal Linux distribution. You are under no legal obligation to follow these rules, but following them will result in a cleaner, more consistent look, in line with what we are making for official media.
 
-## Naming
+## 💬 Naming
 
 We ask to be referred to as `Crystal Linux` or `Crystal` (not `Crystal GNU/Linux`)
 
  `the Crystal Linux distribution` is also applicable in situations where `Crystal` would be too broad or confusing of a term.
 
-## Use of Logo
+## 🖼️ Use of Logo
 
 We ask for the Crystal logo to only be used when relating to Crystal. The logo should not be used in the context of another Linux distribution, Linux as a whole, nor any unrelated ideas/purposes.
 
-## Colours
+## 🌈 Colours
 
 We ask for the following colours to be used for any media on/about Crystal or in relation to it: 
 
-###### Logo:
+###  Logo
 
 - ![#8839EF](https://via.placeholder.com/15/8839EF/000000?text=+) `#8839EF`
 - ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
  
-###### General Colour Scheme:
+###  Colour Scheme
 
 We recently started using [Catpuccin](https://github.com/catppuccin/catppuccin) Mocha as the general colour scheme for the project.
 
-## Fonts
+## 📘 Fonts
 
 Typically, for official graphics we prefer to use [Atkinson Hyperlegible ](https://fonts.google.com/specimen/Atkinson+Hyperlegible). 
 
-## Apps 
+## 🖥️ Apps 
 
 We kindly ask that with any commits to our homemade apps you follow the GNOME HIG (https://developer.gnome.org/hig/) (https://wiki.gnome.org/Design/HIG) as we're trying to create a unified experience with GTK4 and libadwaita.
 
@@ -50,6 +45,22 @@ https://developer.gnome.org/hig/
 
 https://gitlab.gnome.org/Teams/Design
 
-## Promotional/Media
+## 📢 Promotional/Media
 
 For graphics like banners and other promotional material, we prefer to use our logo in the white variant, paired with the [Atkinson Hyperlegible ](https://fonts.google.com/specimen/Atkinson+Hyperlegible) font.
+
+
+## 🙌 Contributing
+
+If you'd like to contribute to branding, please follow the [Crystal Linux contributing guidelines](https://git.getcryst.al/crystal/info/-/blob/main/CONTRIBUTING.md)!
+
+We are also constantly looking for translators for our i18n-enabled projects! If you speak more than one language, consider helping out on our [Weblate](https://i18n.getcryst.al)!
+
+![https://i18n.getcryst.al/engage/crystal-linux/](https://i18n.getcryst.al/widgets/crystal-linux/-/287x66-black.png)
+
+
+## 📜 License
+
+[GPLv3-only](https://choosealicense.com/licenses/gpl-3.0/)
+
+![](https://git.getcryst.al/crystal/misc/branding/-/raw/main/banners/README-banner.png)
