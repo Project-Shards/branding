@@ -20,8 +20,8 @@ We ask for the following colours to be used for any media on/about Shards or in 
 
 ###  Logo
 
-- ![#30C879](https://via.placeholder.com/15/30C879/000000?text=+) `#8839EF`
-- ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/000000?text=+) `#FFFFFF`
+- `#30C879`
+- `#FFFFFF`
  
 ###  Colour Scheme
 
