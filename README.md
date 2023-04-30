@@ -62,5 +62,3 @@ We are also constantly looking for translators for our i18n-enabled projects! If
 ## 📜 License
 
 [GPLv3-only](https://choosealicense.com/licenses/gpl-3.0/)
-
-![](https://git.getcryst.al/crystal/misc/branding/-/raw/main/banners/README-banner.png)
