@@ -20,8 +20,10 @@ We ask for the following colours to be used for any media on/about Shards or in 
 
 ###  Logo
 
-- `#30C879`
+- `#30C879` - for minimal, otherwise use full logo 
+- '#BAFFDB' - for minimal, with use with text (see [banners](/banners) for reference)
 - `#FFFFFF`
+
  
 ###  Colour Scheme
 
